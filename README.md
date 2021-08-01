@@ -1,12 +1,13 @@
 # TileVania
 
 TileVania is a 2D platform game made in a week with a simple UI to practice mechanics and game design. 
+
 The game is composed of three levels(For now). Each level is to test/experiment with a certain mechanism in the game.
 
 ## Warning 
 
 I don't own the sprites used in the game. If you want to use them commercialy, buy them from unity's Asset store
-https://assetstore.unity.com/packages/2d/environments/super-platformer-assets-42013
+          https://assetstore.unity.com/packages/2d/environments/super-platformer-assets-42013
 
 ## Levels:-
 
